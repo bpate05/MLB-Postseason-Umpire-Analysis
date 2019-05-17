@@ -1,6 +1,5 @@
-# fuzzy-potato
+# Major League Baseball Umpire Accuracy
 
-Project #1 Proposal
 ## Project Title
 “Umpires: Consistent or Not?”
 * Team Members
