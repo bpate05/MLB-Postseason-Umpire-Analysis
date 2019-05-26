@@ -1,7 +1,4 @@
 # Major League Baseball Umpire Accuracy
-
-## Project Title
-“Umpires: Consistent or Not?”
 * Team Members
   * Brian Pate
   * Dan Boulden
@@ -23,8 +20,7 @@ We would like to examine the consistency of a Major League Baseball Umpire. Prim
 * SportsRadar API
 * Standardized strikezone dimensions to overlay on charts
 
-## Rough Breakdown of Tasks
-1. Retrieving data using API- 2 person
-2. Cleaning data, putting into dataframe
-3. Plotting using matplotlib
-4. Summarizing and presentation – consult plotting
+## Technologies Utilized
+1. Python
+2. Sportsradar API
+3. Matplotlib
